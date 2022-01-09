@@ -5,5 +5,5 @@ Reference to the paper: O. Aouedi, K. Piamrat, D. bagadthey, "A Semi-supervised 
 SDAE_Code_v2 is the final version of the code in this project.
 Visualizations is the code for visualizing the dataset which was collected in a network section  from  Universidad  Del  Cauca,  Popay`an,  Colombia.
 
-Authors: Dhruvjyoti Bagadthey, Ons Aouedi, Prof. Kandaraj Piamrat
+Authors: Ons Aouedi, Prof. Kandaraj Piamrat, Dhruvjyoti Bagadthey
 
